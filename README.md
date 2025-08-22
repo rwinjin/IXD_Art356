@@ -1,4 +1,4 @@
-Welcome
+#Welcome
 
 This repo will host all projects interaction design 2 class
 
@@ -9,3 +9,6 @@ Text Styles
 **bold**
 
 *italics*
+
+
+![](https://riskofrain2.wiki.gg/images/9/9d/Safer_Spaces.png?81105f)
