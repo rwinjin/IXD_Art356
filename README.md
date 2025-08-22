@@ -1,4 +1,4 @@
-#Welcome
+# Welcome
 
 This repo will host all projects interaction design 2 class
 
@@ -6,6 +6,7 @@ Link to itch page
 (https://irwinjin.itch.io/)
 
 Text Styles
+
 **bold**
 
 *italics*
