@@ -6,6 +6,6 @@ Link to itch page
 (https://irwinjin.itch.io/)
 
 Text Styles
+**bold**
 
-
-![](https://riskofrain2.wiki.gg/images/9/9d/Safer_Spaces.png?81105f)
+*italics*
