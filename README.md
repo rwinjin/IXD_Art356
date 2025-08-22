@@ -12,4 +12,4 @@ Text Styles
 *italics*
 
 
-![](https://riskofrain2.wiki.gg/images/9/9d/Safer_Spaces.png?81105f)
+![safer spaces](https://riskofrain2.wiki.gg/images/9/9d/Safer_Spaces.png?81105f)
